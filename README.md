@@ -1,2 +1,2 @@
 # Instagram-Clone
-Instagram frontend clone used HTML, CSS, Javascript
+## Instagram frontend clone used HTML, CSS, Javascript
