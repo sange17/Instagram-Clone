@@ -4,4 +4,4 @@
 Instagram clone mainpage full size
 ==================================
 
-<img src="https://github.com/sange17/Instagram-Clone/issues/1#issue-781140285">
+<img width="200" src="https://github.com/sange17/Instagram-Clone/issues/1#issue-781140285">
